@@ -1,4 +1,5 @@
-﻿using Vakor.ClobberGame.Lib.Chips;
+﻿using System.Collections.Generic;
+using Vakor.ClobberGame.Lib.Chips;
 
 namespace Vakor.ClobberGame.Lib.Boards
 {
